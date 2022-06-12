@@ -24,4 +24,4 @@ function solution(inputArray) {
   
   
 
-console.log(solution([5, 3, 6, 7, 9]));
+// console.log(solution([5, 3, 6, 7, 9]));

@@ -25,7 +25,7 @@ function solution(name) {
 
 }
 
-
+// asd
 // console.log(solution('var_1__Int'));
 // console.log(solution('qq-q'));
 // console.log(solution('2w2'));
